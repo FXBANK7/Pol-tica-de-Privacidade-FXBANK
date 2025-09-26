@@ -1,0 +1,112 @@
+https://FXBANK7.github.io/Politica-de-Privacidade-FXBANK/
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>fx.bank - política e termos</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Roboto:wght@400;700&display=swap');
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      color: #fff;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    header {
+      text-align: center;
+      padding: 60px 20px 40px;
+      background: linear-gradient(90deg, #0ff, #08f);
+      color: #000;
+    }
+
+    header h1 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 3rem;
+      margin: 0;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+      color: #000;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #111;
+      border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0,255,255,0.3);
+    }
+
+    h2 {
+      color: #0ff;
+      font-family: 'Orbitron', sans-serif;
+      margin-top: 30px;
+      margin-bottom: 15px;
+    }
+
+    p, li {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    ul {
+      margin-left: 20px;
+    }
+
+    li::marker {
+      color: #0ff;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #555;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      header p {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>fx.bank</h1>
+    <p>o banco do futuro para discord e roblox</p>
+  </header>
+
+  <div class="container">
+    <h2>política de privacidade</h2>
+    <p>nós do fx.bank respeitamos sua privacidade. coletamos apenas informações necessárias para que o bot funcione corretamente, como id de usuário, saldo virtual e histórico de transações no discord. essas informações não serão compartilhadas com terceiros sem seu consentimento.</p>
+    <p>os dados são armazenados apenas enquanto necessário e usamos medidas de segurança para protegê-los. ao usar o fx.bank, você concorda com nossa política de privacidade.</p>
+
+    <h2>termo de serviço</h2>
+    <p>ao usar o fx.bank, você concorda com estas regras:</p>
+    <ul>
+      <li>não use o bot para fins ilegais ou prejudiciais.</li>
+      <li>não tente explorar falhas ou bugs do fx.bank.</li>
+      <li>todo conteúdo enviado é de sua responsabilidade.</li>
+      <li>não nos responsabilizamos por perdas ou problemas com contas virtuais ou saldo no roblox/discord.</li>
+    </ul>
+    <p>podemos alterar estes termos a qualquer momento. ao continuar usando o fx.bank, você aceita as mudanças.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 fx.bank - todos os direitos reservados
+  </footer>
+
+</body>
+</html>
